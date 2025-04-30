@@ -6,5 +6,9 @@ function restar(a, b) {
     return a - b;
 }
 
-sumar(5,3);
-restar(10,4);
+let sum = sumar(4,3);
+let min = restar(15,6);
+
+console.log(suma);
+
+console.log(min);
